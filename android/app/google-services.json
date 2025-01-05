@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569195124600",
+    "project_id": "security-key-4f9fb",
+    "storage_bucket": "security-key-4f9fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569195124600:android:0b6140a0a5ccf40f7fda8d",
+        "android_client_info": {
+          "package_name": "com.example.securitykey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZTilOxMs0P9JDRVmulzbNZDVimrNArCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

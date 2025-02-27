@@ -86,5 +86,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - If you're looking for guidance on Flutter development, refer to the official [Flutter documentation](https://flutter.dev/docs).
 
 ---
-
-Feel free to adjust or add more specific details based on the actual functionality of your project!

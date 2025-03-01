@@ -76,9 +76,6 @@ We welcome contributions to make this project better. If you'd like to contribut
 5. Push to your branch (`git push origin feature/your-feature`).
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
